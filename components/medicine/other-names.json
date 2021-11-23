@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_medicine_other_names",
+  "info": {
+    "name": "other names",
+    "icon": "angle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "mm": {
+      "type": "string",
+      "required": true
+    },
+    "nicknames": {
+      "type": "string"
+    }
+  }
+}

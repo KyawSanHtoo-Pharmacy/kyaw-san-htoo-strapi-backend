@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "categories",
+  "info": {
+    "name": "categories"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "category_name_eng": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "category_name_eng"
+    },
+    "category_name_mm": {
+      "type": "string",
+      "required": true
+    },
+    "medicines": {
+      "via": "categories",
+      "collection": "medicines"
+    }
+  }
+}

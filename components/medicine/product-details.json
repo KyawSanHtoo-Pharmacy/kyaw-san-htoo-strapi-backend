@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_medicine_product_details",
+  "info": {
+    "name": "product details",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "benefits": {
+      "type": "text"
+    },
+    "side_effects": {
+      "type": "text"
+    },
+    "doctor_suggestions": {
+      "type": "text"
+    },
+    "how_to": {
+      "type": "text"
+    },
+    "warnings": {
+      "type": "text"
+    }
+  }
+}
