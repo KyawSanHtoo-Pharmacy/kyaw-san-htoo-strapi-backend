@@ -60,8 +60,8 @@
       "component": "medicine.product-details"
     },
     "categories": {
-      "collection": "categories",
       "via": "medicines",
+      "collection": "categories",
       "dominant": true
     }
   }
