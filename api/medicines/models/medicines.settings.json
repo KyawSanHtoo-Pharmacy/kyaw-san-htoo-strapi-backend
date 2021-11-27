@@ -21,11 +21,6 @@
       "targetField": "product_name_eng",
       "required": true
     },
-    "product_other_names": {
-      "type": "component",
-      "repeatable": false,
-      "component": "medicine.other-names"
-    },
     "product_images": {
       "collection": "file",
       "via": "related",
@@ -63,6 +58,13 @@
       "via": "medicines",
       "collection": "categories",
       "dominant": true
+    },
+    "product_name_mm": {
+      "type": "string",
+      "required": true
+    },
+    "product_nicknames": {
+      "type": "string"
     }
   }
 }
