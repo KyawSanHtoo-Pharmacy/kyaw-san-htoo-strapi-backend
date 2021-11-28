@@ -8,14 +8,11 @@
     "product_price": 600,
     "product_previous_price": 700,
     "product_company": "KMD Phamaceuticals",
+    "product_name_mm": "ဒီကိုဂျင်",
+    "product_nicknames": "ဒီကိုဂျင် ခေါင်းမူး",
     "published_at": "2021-11-23T16:02:12.343Z",
     "created_at": "2021-11-23T16:02:09.063Z",
-    "updated_at": "2021-11-26T08:37:05.611Z",
-    "product_other_names": {
-      "id": 1,
-      "mm": "ဒီကိုဂျင်",
-      "nicknames": "ဒီကိုဂျင် ဒီကိုဂျင်"
-    },
+    "updated_at": "2021-11-27T16:11:09.595Z",
     "product_details": {
       "id": 1,
       "description": "it works! အဆင့်မြင့်အားဆေး၊ နှာစေးချောင်းဆိုးပျောက်ဆေး၊ ကလေးအားဆေး၊ ဆေးပြား၊ ဓာတ်ဆား၊ အာရုံကြောဆေးများ၊ အရေပြားလိမ်းဆေး၊ ဆီးချိုတိုင်းစက်အစရှိသည်တို့ ကို မှာယူနိုင်ပါတယ်။",
@@ -366,14 +363,11 @@
     "product_price": 500,
     "product_previous_price": 594,
     "product_company": "KMD Phamaceuticals",
+    "product_name_mm": "ပါရာစီတမော့",
+    "product_nicknames": "မဖော်မင် test",
     "published_at": "2021-11-23T16:10:39.316Z",
     "created_at": "2021-11-23T16:10:36.411Z",
-    "updated_at": "2021-11-26T15:26:28.593Z",
-    "product_other_names": {
-      "id": 2,
-      "mm": "ပါရာစီတမော့",
-      "nicknames": "ပါရာစီတမော့ ပါရာစီတမော့"
-    },
+    "updated_at": "2021-11-27T16:12:18.734Z",
     "product_details": {
       "id": 2,
       "description": "Yayyyy အဆင့်မြင့်အားဆေး၊ နှာစေးချောင်းဆိုးပျောက်ဆေး၊ ကလေးအားဆေး၊ ဆေးပြား၊ ဓာတ်ဆား၊ အာရုံကြောဆေးများ၊ အရေပြားလိမ်းဆေး၊ ဆီးချိုတိုင်းစက်အစရှိသည်တို့ ကို မှာယူနိုင်ပါတယ်။",
@@ -713,14 +707,11 @@
     "product_price": 450,
     "product_previous_price": 500,
     "product_company": "KMD Phamaceuticals",
+    "product_name_mm": "လန်းဆန်း",
+    "product_nicknames": "လန်းဆန်း lol",
     "published_at": "2021-11-23T16:11:41.902Z",
     "created_at": "2021-11-23T16:11:17.594Z",
-    "updated_at": "2021-11-23T16:18:12.526Z",
-    "product_other_names": {
-      "id": 3,
-      "mm": "လန်းဆန်း",
-      "nicknames": "လန်းဆန်း လန်းဆန်း"
-    },
+    "updated_at": "2021-11-27T16:12:35.065Z",
     "product_details": {
       "id": 3,
       "description": "အဆင့်မြင့်အားဆေး၊ နှာစေးချောင်းဆိုးပျောက်ဆေး၊ ကလေးအားဆေး၊ ဆေးပြား၊ ဓာတ်ဆား၊ အာရုံကြောဆေးများ၊ အရေပြားလိမ်းဆေး၊ ဆီးချိုတိုင်းစက်အစရှိသည်တို့ ကို မှာယူနိုင်ပါတယ်။",
@@ -987,14 +978,11 @@
     "product_price": 1000,
     "product_previous_price": 1100,
     "product_company": "KMD Phamaceuticals",
+    "product_name_mm": "မဖော်မင်",
+    "product_nicknames": "မဖော်မင် yaung",
     "published_at": "2021-11-23T16:12:57.253Z",
     "created_at": "2021-11-23T16:12:54.962Z",
-    "updated_at": "2021-11-23T16:18:22.493Z",
-    "product_other_names": {
-      "id": 4,
-      "mm": "မဖော်မင်",
-      "nicknames": "မဖော်မင် မဖော်မင်"
-    },
+    "updated_at": "2021-11-27T16:12:50.429Z",
     "product_details": {
       "id": 4,
       "description": "အဆင့်မြင့်အားဆေး၊ နှာစေးချောင်းဆိုးပျောက်ဆေး၊ ကလေးအားဆေး၊ ဆေးပြား၊ ဓာတ်ဆား၊ အာရုံကြောဆေးများ၊ အရေပြားလိမ်းဆေး၊ ဆီးချိုတိုင်းစက်အစရှိသည်တို့ ကို မှာယူနိုင်ပါတယ်။",
@@ -1272,14 +1260,11 @@
     "product_price": 1200,
     "product_previous_price": 1300,
     "product_company": "KMD Phamaceuticals",
+    "product_name_mm": "ခရီမီ အက်စ်",
+    "product_nicknames": "ခရီမီ အက်စ် aung pyae",
     "published_at": "2021-11-23T16:13:54.399Z",
     "created_at": "2021-11-23T16:13:51.224Z",
-    "updated_at": "2021-11-23T16:18:35.175Z",
-    "product_other_names": {
-      "id": 5,
-      "mm": "ခရီမီ အက်စ်",
-      "nicknames": "ခရီမီ အက်စ် ခရီမီ အက်စ်"
-    },
+    "updated_at": "2021-11-27T16:13:09.370Z",
     "product_details": {
       "id": 5,
       "description": "အဆင့်မြင့်အားဆေး၊ နှာစေးချောင်းဆိုးပျောက်ဆေး၊ ကလေးအားဆေး၊ ဆေးပြား၊ ဓာတ်ဆား၊ အာရုံကြောဆေးများ၊ အရေပြားလိမ်းဆေး၊ ဆီးချိုတိုင်းစက်အစရှိသည်တို့ ကို မှာယူနိုင်ပါတယ်။",
@@ -1619,14 +1604,11 @@
     "product_price": 650,
     "product_previous_price": 700,
     "product_company": "KMD Phamaceuticals",
+    "product_name_mm": "အဲ အိတ်စ်",
+    "product_nicknames": "အဲ အိတ်စ် ye min",
     "published_at": "2021-11-23T16:14:29.405Z",
     "created_at": "2021-11-23T16:14:27.353Z",
-    "updated_at": "2021-11-23T16:18:53.752Z",
-    "product_other_names": {
-      "id": 6,
-      "mm": "အဲ အိတ်စ်",
-      "nicknames": "အဲ အိတ်စ် အဲ အိတ်စ်"
-    },
+    "updated_at": "2021-11-27T16:13:28.784Z",
     "product_details": {
       "id": 6,
       "description": "အဆင့်မြင့်အားဆေး၊ နှာစေးချောင်းဆိုးပျောက်ဆေး၊ ကလေးအားဆေး၊ ဆေးပြား၊ ဓာတ်ဆား၊ အာရုံကြောဆေးများ၊ အရေပြားလိမ်းဆေး၊ ဆီးချိုတိုင်းစက်အစရှိသည်တို့ ကို မှာယူနိုင်ပါတယ်။",
@@ -1893,14 +1875,11 @@
     "product_price": 700,
     "product_previous_price": 800,
     "product_company": "KMD Phamaceuticals",
+    "product_name_mm": "အမစ် တန်း",
+    "product_nicknames": "အမစ် တန်း hein",
     "published_at": "2021-11-23T16:15:58.977Z",
     "created_at": "2021-11-23T16:15:55.948Z",
-    "updated_at": "2021-11-23T16:18:59.922Z",
-    "product_other_names": {
-      "id": 7,
-      "mm": "အမစ် တန်း",
-      "nicknames": "အမစ် တန်း အမစ် တန်း"
-    },
+    "updated_at": "2021-11-27T16:13:46.840Z",
     "product_details": {
       "id": 7,
       "description": "အဆင့်မြင့်အားဆေး၊ နှာစေးချောင်းဆိုးပျောက်ဆေး၊ ကလေးအားဆေး၊ ဆေးပြား၊ ဓာတ်ဆား၊ အာရုံကြောဆေးများ၊ အရေပြားလိမ်းဆေး၊ ဆီးချိုတိုင်းစက်အစရှိသည်တို့ ကို မှာယူနိုင်ပါတယ်။",
