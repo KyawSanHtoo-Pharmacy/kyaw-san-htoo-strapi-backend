@@ -37,6 +37,10 @@
       "plugin": "upload",
       "required": true,
       "pluginOptions": {}
+    },
+    "category_name_long": {
+      "type": "string",
+      "required": true
     }
   }
 }
