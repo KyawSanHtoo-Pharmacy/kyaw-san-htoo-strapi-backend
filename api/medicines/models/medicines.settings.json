@@ -65,6 +65,10 @@
     },
     "product_nicknames": {
       "type": "string"
+    },
+    "medicine_to_compare": {
+      "type": "string",
+      "required": true
     }
   }
 }
