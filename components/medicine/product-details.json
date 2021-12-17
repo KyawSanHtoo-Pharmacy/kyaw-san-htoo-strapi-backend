@@ -24,6 +24,9 @@
     },
     "warnings": {
       "type": "text"
+    },
+    "description_rt": {
+      "type": "richtext"
     }
   }
 }
