@@ -7,25 +7,22 @@
   },
   "options": {},
   "attributes": {
-    "description": {
-      "type": "text"
-    },
-    "benefits": {
-      "type": "text"
-    },
-    "side_effects": {
-      "type": "text"
-    },
-    "doctor_suggestions": {
-      "type": "text"
-    },
-    "how_to": {
-      "type": "text"
-    },
-    "warnings": {
-      "type": "text"
-    },
     "description_rt": {
+      "type": "richtext"
+    },
+    "benefits_rt": {
+      "type": "richtext"
+    },
+    "side_effects_rt": {
+      "type": "richtext"
+    },
+    "doctor_suggestions_rt": {
+      "type": "richtext"
+    },
+    "how_to_rt": {
+      "type": "richtext"
+    },
+    "warnings_rt": {
       "type": "richtext"
     }
   }
