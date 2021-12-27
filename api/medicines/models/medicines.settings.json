@@ -68,6 +68,9 @@
     },
     "product_to_compare": {
       "collection": "medicines"
+    },
+    "product_country": {
+      "type": "string"
     }
   }
 }
